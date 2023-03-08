@@ -1,5 +1,6 @@
 # Data Structures in JavaScript
 
-## A collection of basic **Data Structures** implemented in **javascript**. Includes:
+A compilation of basic **Data Structures** implemented in **javascript**. Includes:
 
-- Singly Linked List
+- **Singly Linked List**
+- **Doubly Linked List**
