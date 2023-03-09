@@ -4,3 +4,4 @@ A compilation of basic **Data Structures** implemented in **javascript**. Includ
 
 - **Singly Linked List**
 - **Doubly Linked List**
+- **Stack**
