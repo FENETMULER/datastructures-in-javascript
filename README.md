@@ -6,3 +6,4 @@ A compilation of basic **Data Structures** implemented in **javascript**. Includ
 - **Doubly Linked List**
 - **Stack**
 - **Queue**
+- **Binary Search Tree**
